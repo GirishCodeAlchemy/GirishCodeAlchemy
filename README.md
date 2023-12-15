@@ -12,7 +12,7 @@
 <a href="mailto:venkatareddygirish@gmail.com"><img src="https://img.shields.io/badge/-venkatareddygirish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p><br>
 
-### **Tools and Technology I Knows.**
+### **Tools and Technology.**
 
 <br>
 <code><img src="https://img.icons8.com/fluency/96/null/python.png"/></code>
@@ -33,10 +33,10 @@
 <hr/>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 <!-- <a href="">
