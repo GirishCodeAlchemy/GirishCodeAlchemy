@@ -6,7 +6,7 @@
 <p align="center">
 <h1 align="center">
 <code>Girish V </code><br><br>
-<a href="https://www.linkedin.com/in/arwazkhan189/"><img src="https://img.shields.io/badge/-Girish%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-Girish%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-@vgirishreddy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Girish%20V-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 <a href="mailto:venkatareddygirish@gmail.com"><img src="https://img.shields.io/badge/-venkatareddygirish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
