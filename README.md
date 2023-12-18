@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi everyone 👋 <img height=25 align="right" src="https://komarev.com/ghpvc/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=10&base=100" />
 
 <!-- <img align="center" alt="Arwaz's banner"  src="https://github.com/arwazkhan189/arwazkhan189/blob/master/Banner.gif" /> -->
 <img align="left" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" />
@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-@vgirishreddy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Girish%20V-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 <a href="mailto:venkatareddygirish@gmail.com"><img src="https://img.shields.io/badge/-venkatareddygirish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+   
 </p><br>
 
 ### **Tools and Technology.**
@@ -39,10 +40,6 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/girishcodealchemy/count.svg" />
-</h3>
 
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=TopNDiskAnalyzer" />
