@@ -39,6 +39,11 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/girishcodealchemy/count.svg" />
+</h3>
+
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=TopNDiskAnalyzer" />
 </a>
