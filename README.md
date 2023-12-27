@@ -40,6 +40,11 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
+## 🏅 Certificates 
+<p align="middle">
+<a href="https://www.credly.com/badges/0cbd6373-0ab4-48a3-8d6a-18d4e4cbc853/public_url"><img src="https://images.credly.com/size/240x240/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
+<a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"><img src="https://images.credly.com/size/200x200/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"></a>
+</p>
 
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=TopNDiskAnalyzer" />
