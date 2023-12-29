@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 <a href="mailto:venkatareddygirish@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-   
-</p><br>
+ 
+</p>
 
 
 
@@ -64,22 +64,24 @@
 
 </h1>
 
-<hr/>
 
 # 📊 GitHub Stats:
 
 <a href="">
-  <img height=140 width=35% align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
+  <img height=140 width=36% align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
 </a>
 <a href="">
-  <img height=140 width=25% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=140 width=22% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 <a href="">
   <img height=140 width=33% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GirishCodeAlchemy&theme=radical&hide_border=false" />
-</a>
+</a></br>
+
 
 
 # 🏅 Certificates 
+
+ 
 <p align="middle">
 
 <a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"><img src="https://images.credly.com/size/175x175/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"></a>
@@ -87,14 +89,16 @@
 <img src="https://media.licdn.com/dms/image/D5622AQFoXWGxHpSjRg/feedshare-shrink_1280/0/1703473592804?e=1706745600&v=beta&t=HqzO-qx_HGGz0G8-uRfSGU4yxCSIdlwoxcQXqarQEOA" width="240">
   </a>
 <a href="https://www.linkedin.com/learning/certificates/18b3b34cef7e065cdffebd9e2851bcdcc5edfe95e5d7d9d4bc9928ebeb1ef966"><img src="https://media.licdn.com/dms/image/D5622AQFsd54WIBiKzw/feedshare-shrink_1280/0/1700019617951?e=1706745600&v=beta&t=lLA9cqe3FEnLfOYC7gqpwqdq19q7aXeW9XuDcdFN_TU" width="240" ></a>
-<a href="https://www.credly.com/badges/0cbd6373-0ab4-48a3-8d6a-18d4e4cbc853/public_url"><img src="https://images.credly.com/size/200x200/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
+<a href="https://www.credly.com/badges/0cbd6373-0ab4-48a3-8d6a-18d4e4cbc853/public_url"><img src="https://images.credly.com/size/180x180/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
 </p>
 
-### 🔝 Top Contributed Repo
-<br>
+
+## 🔝 Top Contributed Repo
+
 
 ![Repos](https://github-contributor-stats.vercel.app/api?username=GirishCodeAlchemy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <hr/>
+
 <!-- 
 
 ### **Tools and Technology.**
