@@ -1,14 +1,17 @@
 ### Hi everyone 👋 <img height=25 align="right" src="https://komarev.com/ghpvc/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=10&base=100" />
 
 <!-- <img align="right" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" /> -->
-<img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
+
 <p align="center">
+
 <h1 align="center">
+ <img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
+
 <code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br><br>
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
-<a href="mailto:venkatareddygirish@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:girishcodealchemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
 </p>
 
