@@ -71,13 +71,13 @@
 # 📊 GitHub Stats:
 
 <a href="">
-  <img height=140 width=36% align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
+  <img height=150 width=36% align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
 </a>
 <a href="">
-  <img height=140 width=22% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=150 width=22% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 <a href="">
-  <img height=140 width=33% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GirishCodeAlchemy&theme=radical&hide_border=false" />
+  <img height=150 width=35% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GirishCodeAlchemy&theme=radical&hide_border=false" />
 </a></br>
 
 
