@@ -102,6 +102,13 @@
 ![Repos](https://github-contributor-stats.vercel.app/api?username=GirishCodeAlchemy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <hr/>
 
+## 🏛️ Architectural design
+
+| Project | Flow Diagram  |
+|:-------:|:--------------:|
+| [News-sentiment-ML-ETL-pipeline](https://github.com/GirishCodeAlchemy/News-sentiment-ML-ETL-pipeline) | ![Flow Diagram 1](https://github.com/GirishCodeAlchemy/News-sentiment-ML-ETL-pipeline/blob/main/assets/flow-diagram.gif) | 
+| [AWS- APP Hosting](https://github.com/GirishCodeAlchemy/aws-app-hosting) | ![Flow Diagram 2](https://github.com/GirishCodeAlchemy/aws-app-hosting/blob/main/assets/flow-diagram.gif) |
+
 <!-- 
 
 ### **Tools and Technology.**
