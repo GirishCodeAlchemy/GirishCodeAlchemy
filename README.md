@@ -72,17 +72,9 @@
 
 # 📊 GitHub Stats:
 
-<a href="">
-  <img height=150 width=38% align="center" src="https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars" />
-</a>
-<a href="">
-  <img height=150 width=24% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
-<a href="">
-  <img height=150 width=36% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GirishCodeAlchemy&theme=radical&hide_border=false" />
-</a></br>
-
-
+![](https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=320)
+![](http://github-readme-streak-stats.herokuapp.com?user=girishcodealchemy&theme=radical&hide_border=true)
 
 # 🏅 Certificates 
 
