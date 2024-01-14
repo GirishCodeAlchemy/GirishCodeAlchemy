@@ -9,7 +9,8 @@
 <h1 align="center">
  <img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
 
-<code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br><br>
+<code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Full+Stack+Developer;8+Years+of+coding+experience;Always+learning+new+things"/><br>
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
