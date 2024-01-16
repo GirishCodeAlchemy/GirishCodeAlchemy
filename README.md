@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
+<a href="https://medium.com/@girishcodealchemy"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="mailto:girishcodealchemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
 </p>
