@@ -118,6 +118,7 @@ I also love doing open source development and contributions. It gives me a wonde
 |:-------:|:--------------:|
 | [News-sentiment-ML-ETL-pipeline](https://github.com/GirishCodeAlchemy/News-sentiment-ML-ETL-pipeline) | ![Flow Diagram 1](https://github.com/GirishCodeAlchemy/News-sentiment-ML-ETL-pipeline/blob/main/assets/flow-diagram.gif) | 
 | [AWS- APP Hosting](https://github.com/GirishCodeAlchemy/aws-app-hosting) | ![Flow Diagram 2](https://github.com/GirishCodeAlchemy/aws-app-hosting/blob/main/assets/flow-diagram.gif) |
+| [AWS SSO Automate](https://github.com/GirishCodeAlchemy/terraform-aws-sso-module) | ![Flow Diagram 3](https://github.com/GirishCodeAlchemy/terraform-aws-sso-module/blob/main/flow-diagram.gif) |
 
 
 ## 🏗️ Hosted Pages
