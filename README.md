@@ -30,7 +30,7 @@ I also love doing open source development and contributions. It gives me a wonde
 - 🌱 I’m currently learning **[Swift](https://github.com/GirishCodeAlchemy/alchemy-2024-SWIFT)**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm a problem-solver and cars enthusiast.
+- ⚡ Fun fact: I'm a problem-solver and car enthusiast.
 </p>
 
 
