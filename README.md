@@ -22,7 +22,6 @@
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 <a href="https://medium.com/@girishcodealchemy"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="mailto:girishcodealchemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://girishcodealchemy.github.io/Resume/"><img src="https://img.shields.io/badge/-Resume-231F20?style=flat&logo=Download&logoColor=white"/></a>
 </p>
 </h1>
 
