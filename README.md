@@ -2,6 +2,12 @@
 
 ### Hi everyone 👋 <img height=25 align="right" src="https://komarev.com/ghpvc/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=10&base=100" />
 
+<p align="right">
+  <a href="https://girishcodealchemy.github.io/Resume/">
+    <img src="https://img.shields.io/badge/-Resume-231F20?style=flat&logo=Download&logoColor=white" width="70" height="30" alt="Download Resume"/>
+  </a>
+</p>
+
 <!-- <img align="right" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" /> -->
 
 <p align="center">
@@ -16,7 +22,7 @@
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 <a href="https://medium.com/@girishcodealchemy"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="mailto:girishcodealchemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- 
+ <a href="https://girishcodealchemy.github.io/Resume/"><img src="https://img.shields.io/badge/-Resume-231F20?style=flat&logo=Download&logoColor=white"/></a>
 </p>
 </h1>
 
