@@ -95,6 +95,7 @@ I also love doing open source development and contributions. It gives me a wonde
 ![](https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook,Roff&card_width=320)
 ![](http://github-readme-streak-stats.herokuapp.com?user=girishcodealchemy&theme=radical&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=girishcodealchemy&title=MultiLanguage,PullRequest,Commits,Stars,LongTimeUser,Repositories,Issues&theme=radical&column=3)
 ![](https://github-readme-activity-graph.vercel.app/graph/?username=GirishCodeAlchemy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")
 
 # 🏅 Certificates 
