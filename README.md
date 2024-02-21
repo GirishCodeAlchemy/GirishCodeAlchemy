@@ -138,16 +138,16 @@ I also love doing open source development and contributions. It gives me a wonde
 
 | Solution | Description | Download |
 |:-------|:--------------:|:--------|
-| Useful-Packages | Collection of useful packages and utilities for various programming languages. | [WebSite](https://girishcodealchemy.github.io/alchemy-useful-packages/) |
-| Portfolio | Personal portfolio showcasing projects, skills, and experiences. | [WebSite](https://girishcodealchemy.vercel.app/) |
-| TODO APP | Simple web application for managing to-do tasks. | [WebApp](https://girishcodealchemy.github.io/todo-app/) |
-| [Kubernetes Solutions](https://github.com/GirishCodeAlchemy/kubernetes-solutions) | Solutions and best practices for working with Kubernetes clusters. | [WebSite](https://girishcodealchemy.github.io/kubernetes-solutions/) |
-| [TopNDiskAnalyzer](https://girishcodealchemy.github.io/TopNDiskAnalyzer/) | Disk space analysis tool to identify the largest files and directories. | [Software](https://github.com/GirishCodeAlchemy/TopNDiskAnalyzer/releases) |
-| [WebPageCaptureTool](https://girishcodealchemy.github.io/WebPageCapture/) | Tool for capturing and saving screenshots of web pages. | [Software](https://github.com/GirishCodeAlchemy/WebPageCapture/releases) |
-| [Useful-Scripts](https://github.com/GirishCodeAlchemy/useful-scripts) | Collection of useful shell scripts for various tasks and automation. | [WebSite](https://girishcodealchemy.github.io/useful-scripts/)  |
-| [Terraform Module to Automate SSO creation on AWS](https://girishcodealchemy.github.io/terraform-aws-sso-module/) | Terraform module for automating the creation of Single Sign-On (SSO) infrastructure on AWS. |  [TerraformRegistry](https://registry.terraform.io/modules/GirishCodeAlchemy/sso-module/aws/latest)|
-| [GithubAction to Capture all the Workflow Status](https://girishcodealchemy.github.io/githubaction-workflow-status-capture/) | GitHub Action to automatically capture and update workflow status in README files. | [Marketplace](https://github.com/marketplace/actions/capture-githubaction-workflow-status-to-readme?version=v2.0) |
-| [GithubAction to Run Adhoc commands on PR](https://girishcodealchemy.github.io/githubaction-runtime-adhoc-pr-commands/) | GitHub Action to run adhoc commands on pull requests for testing and validation. | [Marketplace](https://github.com/marketplace/actions/pr-runtime-adhoc-commands?version=v1.0) |
+| Useful-Packages | Collection of useful packages and utilities for various programming languages. | [WebSite 🚀](https://girishcodealchemy.github.io/alchemy-useful-packages/) |
+| Portfolio | Personal portfolio showcasing projects, skills, and experiences. | [WebSite 🚀](https://girishcodealchemy.vercel.app/) |
+| TODO APP | Simple web application for managing to-do tasks. | [WebApp 🚀](https://girishcodealchemy.github.io/todo-app/) |
+| [Kubernetes Solutions](https://github.com/GirishCodeAlchemy/kubernetes-solutions) | Solutions and best practices for working with Kubernetes clusters. | [WebSite 🚀](https://girishcodealchemy.github.io/kubernetes-solutions/) |
+| [TopNDiskAnalyzer](https://girishcodealchemy.github.io/TopNDiskAnalyzer/) | Disk space analysis tool to identify the largest files and directories. | [Software 🗳️](https://github.com/GirishCodeAlchemy/TopNDiskAnalyzer/releases) |
+| [WebPageCaptureTool](https://girishcodealchemy.github.io/WebPageCapture/) | Tool for capturing and saving screenshots of web pages. | [Software 🗳️](https://github.com/GirishCodeAlchemy/WebPageCapture/releases) |
+| [Useful-Scripts](https://github.com/GirishCodeAlchemy/useful-scripts) | Collection of useful shell scripts for various tasks and automation. | [WebSite 🚀](https://girishcodealchemy.github.io/useful-scripts/)  |
+| [Terraform Module to Automate SSO creation on AWS](https://girishcodealchemy.github.io/terraform-aws-sso-module/) | Terraform module for automating the creation of Single Sign-On (SSO) infrastructure on AWS. |  [TerraformRegistry 🗳️](https://registry.terraform.io/modules/GirishCodeAlchemy/sso-module/aws/latest)|
+| [GithubAction to Capture all the Workflow Status](https://girishcodealchemy.github.io/githubaction-workflow-status-capture/) | GitHub Action to automatically capture and update workflow status in README files. | [Marketplace 🗳️](https://github.com/marketplace/actions/capture-githubaction-workflow-status-to-readme?version=v2.0) |
+| [GithubAction to Run Adhoc commands on PR](https://girishcodealchemy.github.io/githubaction-runtime-adhoc-pr-commands/) | GitHub Action to run adhoc commands on pull requests for testing and validation. | [Marketplace 🗳️](https://github.com/marketplace/actions/pr-runtime-adhoc-commands?version=v1.0) |
 
 ----
 <!-- 
