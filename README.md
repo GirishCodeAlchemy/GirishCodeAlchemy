@@ -149,6 +149,15 @@ I also love doing open source development and contributions. It gives me a wonde
 | [GithubAction to Capture all the Workflow Status](https://girishcodealchemy.github.io/githubaction-workflow-status-capture/) | GitHub Action to automatically capture and update workflow status in README files. | [Marketplace 🗳️](https://github.com/marketplace/actions/capture-githubaction-workflow-status-to-readme?version=v2.0) |
 | [GithubAction to Run Adhoc commands on PR](https://girishcodealchemy.github.io/githubaction-runtime-adhoc-pr-commands/) | GitHub Action to run adhoc commands on pull requests for testing and validation. | [Marketplace 🗳️](https://github.com/marketplace/actions/pr-runtime-adhoc-commands?version=v1.0) |
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/ocean.gif" />
+  <img alt="github-snake" src="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake.svg" />
+</picture>
+
+
+
 ----
 <!-- 
 
