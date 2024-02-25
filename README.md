@@ -38,6 +38,13 @@ I also love doing open source development and contributions. It gives me a wonde
 - ⚡ Fun fact: I'm a problem-solver and car enthusiast.
 </p>
 
+### My passions are
+
+- 💻 Software infra/architect/dev tooling
+- 🛠️ DevOps/application
+- 🚀 Building software from zero to one
+- 🐍 Python/Golang/Nodejs/Shell
+- 🚀 Initiate project and launch software
 
 # 💻 Tech Stack:
 
