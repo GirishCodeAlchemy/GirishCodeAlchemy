@@ -125,8 +125,6 @@ I also love doing open source development and contributions. It gives me a wonde
 <a href="https://www.credly.com/badges/744fab49-58ef-45dc-9014-c8c10895dfc2/public_url"><img src="https://images.credly.com/size/180x180/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" ></a>
 <a href="https://www.credly.com/badges/3f2d9912-700e-4a54-b01d-4ffe2b7fefb1/public_url"><img src="https://images.credly.com/size/1800x180/images/7f48ddd3-7fb5-42b3-a84f-42edd538d39d/image.png" ></a>
 
-
-https://www.credly.com/badges/3f2d9912-700e-4a54-b01d-4ffe2b7fefb1/public_url
 </p>
 
 
