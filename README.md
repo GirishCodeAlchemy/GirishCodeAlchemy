@@ -46,6 +46,8 @@ I also love doing open source development and contributions. It gives me a wonde
 - 🐍 Python/Golang/Nodejs/Shell
 - 🚀 Initiate project and launch software
 
+<hr/>
+
 # 💻 Tech Stack:
 
 <h1 align="center">
@@ -95,7 +97,7 @@ I also love doing open source development and contributions. It gives me a wonde
 ![VictorOps](https://img.shields.io/badge/VictorOps-31C59B?style=for-the-badge&logo=victorops&logoColor=white)
 
 </h1>
-
+<hr/>
 
 # 📊 GitHub Stats:
 
@@ -104,6 +106,8 @@ I also love doing open source development and contributions. It gives me a wonde
 ![](http://github-readme-streak-stats.herokuapp.com?user=girishcodealchemy&theme=radical&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=girishcodealchemy&title=MultiLanguage,PullRequest,Commits,Stars,LongTimeUser,Repositories,Issues&theme=radical&column=3)
 ![](https://github-readme-activity-graph.vercel.app/graph/?username=GirishCodeAlchemy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")
+
+<hr/>
 
 # 🏅 Certificates 
 
@@ -127,7 +131,7 @@ I also love doing open source development and contributions. It gives me a wonde
 <a href="https://credentials.newrelic.com/72439e0f-d803-45d8-b134-9a078a7895a8"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/97321159"></a>
 
 </p>
-
+<hr/>
 
 ## 🔝 Top Contributed Repo
 
@@ -144,7 +148,7 @@ I also love doing open source development and contributions. It gives me a wonde
 | [AWS SSO Automate](https://girishcodealchemy.github.io/terraform-aws-sso-module) <a href="https://github.com/GirishCodeAlchemy/terraform-aws-sso-module"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" align="center"/></a>| ![Flow Diagram 3](https://github.com/GirishCodeAlchemy/terraform-aws-sso-module/blob/main/flow-diagram.gif) | <a href="https://girishcodealchemy.medium.com/streamlining-aws-sso-in-complex-multi-account-environments-e82025792d11"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"  width="85" height="22" /></a> <a href="https://girishv.hashnode.dev/streamlining-aws-sso-in-complex-multi-account-environments"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a> |
 | [Automate Cloud Web Deploy](https://girishcodealchemy.github.io/AutomateCloudWebDeploy) <a href="https://github.com/GirishCodeAlchemy/AutomateCloudWebDeploy"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" align="center"/></a> | ![Flow Diagram 4](https://github.com/GirishCodeAlchemy/AutomateCloudWebDeploy/blob/main/assets/workflow.gif) | <a href="https://girishcodealchemy.medium.com/streamlining-cloud-web-deployment-with-githubaction-terraform-cloud-c8b3974dc63c"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"  width="85" height="22" /></a> <a href="https://girishv.hashnode.dev/streamlining-cloud-web-deployment-with-githubaction-terraform-cloud"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a> |
 
-
+<hr/>
 
 ## 🏗️ UnifiedTechSolutions Hub
 
@@ -161,13 +165,13 @@ I also love doing open source development and contributions. It gives me a wonde
 | [GithubAction to Capture all the Workflow Status](https://girishcodealchemy.github.io/githubaction-workflow-status-capture/) <a href="https://github.com/GirishCodeAlchemy/githubaction-workflow-status-capture"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" align="right"/></a>| GitHub Action to automatically capture and update workflow status in README files. | | [Marketplace 🗳️](https://github.com/marketplace/actions/capture-githubaction-workflow-status-to-readme?version=v2.0) |
 | [GithubAction to Run Adhoc commands on PR](https://girishcodealchemy.github.io/githubaction-runtime-adhoc-pr-commands/) <a href="https://github.com/GirishCodeAlchemy/githubaction-runtime-adhoc-pr-commands"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" align="right"/></a>| GitHub Action to run adhoc commands on pull requests for testing and validation. | <a href="https://girishcodealchemy.medium.com/github-action-runtime-adhoc-commands-on-pr-7845d5398c5f"><img src="https://img.shields.io/badge/-Medium-231F20?style=flat&logo=Medium&logoColor=white"  width="85" height="22" /></a> <a href="https://girishv.hashnode.dev/github-action-runtime-adhoc-commands-on-pr"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a> | [Marketplace 🗳️](https://github.com/marketplace/actions/pr-runtime-adhoc-commands?version=v1.0) |
 
+<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/ocean.gif" />
   <img alt="github-snake" src="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake.svg" />
 </picture>
-
 
 
 ----
