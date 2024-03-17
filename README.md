@@ -50,7 +50,7 @@ I also love doing open source development and contributions. It gives me a wonde
 
 # 💻 Tech Stack:
 
-<h1 align="center">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -96,7 +96,7 @@ I also love doing open source development and contributions. It gives me a wonde
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-6E37AC?style=for-the-badge&logo=pagerduty&logoColor=white)
 ![VictorOps](https://img.shields.io/badge/VictorOps-31C59B?style=for-the-badge&logo=victorops&logoColor=white)
 
-</h1>
+</div>
 <hr/>
 
 # 📊 GitHub Stats:
