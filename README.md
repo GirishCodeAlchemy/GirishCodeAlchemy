@@ -26,9 +26,9 @@
 </h1>
 
 <p>
- Hi, I am a full-stack software engineer with experience across the entire product life cycle, including contributions to open source projects and Tech Enthusiast. I am primarily focused on Python & Golang, but my learning style allows me to adapt to new languages and ideologies with ease.
+ Hi, I am a full-stack software engineer with experience across the entire product life cycle, including contributions to open-source projects and Tech enthusiasts. I am primarily focused on Python & Golang, but my learning style allows me to adapt to new languages and ideologies with ease.
 
-I also love doing open source development and contributions. It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well-planned modularity and extensibility.
+I also love doing open-source development and contributions. It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well-planned modularity and extensibility.
 
 #### Here are a few things you should know about me:
 
