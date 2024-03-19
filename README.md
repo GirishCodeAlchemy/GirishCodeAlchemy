@@ -43,7 +43,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 - 💻 Software infra/architect/dev tooling
 - 🛠️ DevOps/application.
 - 🚀 Building software from zero to one.
-- 🐍 Python/Golang/Nodejs/Shell
+- 🐍 Python/Golang/Nodejs/Shell.
 - 🚀 Initiate project and launch software
 
 <hr/>
