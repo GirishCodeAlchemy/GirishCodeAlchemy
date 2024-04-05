@@ -38,7 +38,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 - ⚡ Fun fact: I'm a problem-solver and car enthusiast.
 </p>
 
-### My passions are
+### My passions are:
 
 - 💻 Software infra/architect/dev tooling.
 - 🛠️ DevOps/application.
