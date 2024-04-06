@@ -72,6 +72,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudformation](https://img.shields.io/badge/Cloudformation-0056B3?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=apache-airflow&logoColor=DD0031)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-07405E?style=for-the-badge&logo=flux&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-34D058?style=for-the-badge&logo=argocd&logoColor=white)
