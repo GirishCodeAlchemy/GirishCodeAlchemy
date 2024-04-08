@@ -134,7 +134,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 </p>
 <hr/>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 
 
 ![Repos](https://github-contributor-stats.vercel.app/api?username=GirishCodeAlchemy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
