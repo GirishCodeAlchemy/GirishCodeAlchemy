@@ -110,7 +110,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 <hr/>
 
-# 🏅 Certificates 
+# 🏅 Certificates :
 
  
 <p align="middle">
