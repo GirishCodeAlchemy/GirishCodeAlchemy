@@ -140,7 +140,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 ![Repos](https://github-contributor-stats.vercel.app/api?username=GirishCodeAlchemy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <hr/>
 
-## 🏛️ Architectural design
+## 🏛️ Architectural design:
 
 | Project | Flow Diagram  | Blog |
 |:-------:|:--------------:|:----:|
