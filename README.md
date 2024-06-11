@@ -16,7 +16,7 @@
  <img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
 
 <code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Full+Stack+Software+Engineer;8%2B%20Years+of+coding+experience;Always+learning+new+things"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Full+Stack+Software+Engineer;9%2B%20Years+of+coding+experience;Always+learning+new+things"/><br>
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
@@ -32,7 +32,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 #### Here are a few things you should know about me:
 
-- 🌱 I’m currently learning **[Gen AI](https://github.com/GirishCodeAlchemy/alchemy-2024-generative-ai)** & **[Swift](https://github.com/GirishCodeAlchemy/alchemy-2024-swift)**.
+- 🌱 I’m currently learning **[Gen AI](https://github.com/GirishCodeAlchemy/alchemy-2024-generative-ai)**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a problem-solver and car enthusiast.
@@ -41,7 +41,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 ### My passions are:
 
 - 💻 Software infra/architect/dev tooling.
-- 🛠️ DevOps/application.
+- 🛠️ DevOps/CloudOps/Mlops/application.
 - 🚀 Building software from zero to one.
 - 🐍 Python/Golang/Nodejs/Shell.
 - 🚀 Initiate project and launch software.
