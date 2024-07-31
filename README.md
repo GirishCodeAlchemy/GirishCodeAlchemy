@@ -96,6 +96,9 @@ I also love doing open-source development and contributions. It gives me a wonde
 ![Scalyr](https://img.shields.io/badge/Scalyr-FF7900?style=for-the-badge&logo=scalyr&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-6E37AC?style=for-the-badge&logo=pagerduty&logoColor=white)
 ![VictorOps](https://img.shields.io/badge/VictorOps-31C59B?style=for-the-badge&logo=victorops&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-0085CA?style=for-the-badge&logo=llm&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-00BFFF?style=for-the-badge&logo=genai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-DC382D?style=for-the-badge&logo=genai&logoColor=white)
 
 </div>
 <hr/>
