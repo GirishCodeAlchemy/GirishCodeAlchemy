@@ -114,7 +114,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
  
 <p align="middle">
-
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"> <img src="./assets/certificates/oracle_certificate/Gen_ai_Certificate.jpg" width="260"></a>
 <a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"><img src="https://images.credly.com/size/175x175/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="240" height="200"></a> <a href="https://www.linkedin.com/learning/certificates/dbd63253ad2ec18dbcbd870160f76ab4679a0d3f5d0102ea328181eec5d38183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqsIndzOWSoyxrFzDzbwbSw%3D%3D">
 <img src="./assets/certificates/1.jpg" width="260"></a>
 <a href="https://www.linkedin.com/learning/certificates/2669c298f9e4b4a669c87b3588cd7e7d10fde77a97e2d4bad6e35c864b27f4d6"> <img src="./assets/certificates/1-2.jpg" width="260"></a>
