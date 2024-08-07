@@ -16,7 +16,7 @@
  <img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
 
 <code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Full+Stack+Software+Engineer;9%2B%20Years+of+coding+experience;Always+learning+new+things"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Software+Engineer;9%2B%20Years+of+experience+in+IT;Always+learning+new+things"/><br>
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 </h1>
 
 <p>
- Hi, I am a full-stack software engineer with experience across the entire product life cycle, including contributions to open-source projects and Tech enthusiasts. I am primarily focused on Python & Golang, but my learning style allows me to adapt to new languages and ideologies with ease.
+ Hi, I am a Software engineer with experience across the entire product life cycle, including contributions to open-source projects and Tech enthusiasts. I am primarily focused on Python & Golang, but my learning style allows me to adapt to new languages and ideologies with ease.
 
 I also love doing open-source development and contributions. It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well-planned modularity and extensibility.
 
