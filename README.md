@@ -32,7 +32,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 #### Here are a few things you should know about me:
 
-- 🌱 I’m currently learning **[Gen AI](https://github.com/GirishCodeAlchemy/alchemy-2024-generative-ai)**.
+- 🌱 I’m currently learning **[Gen AI](https://github.com/GirishCodeAlchemy/alchemy-2024-generative-ai)** **[RUST](https://github.com/GirishCodeAlchemy/alchemy-2024-rust)**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a problem-solver and car enthusiast.
