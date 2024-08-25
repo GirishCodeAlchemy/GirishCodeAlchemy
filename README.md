@@ -136,7 +136,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 <a href="https://credentials.newrelic.com/646fedad-e847-4c64-868a-34a5bde94f58"><img src="./assets/certificates/NewRelicBadges/new-relic-observability-Practitioner.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/1b754dbd-e9e3-454d-90bc-dcf0bdb8270b"><img src="./assets/certificates/NewRelicBadges/new-relic-full-stack-observability.png" width="180" height="180"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"><img src="./assets/certificates/oracle_certificate/OCI2024GAIOCP.jpg" width="180" height="180"></a>
-
 </p>
 <hr/>
 
