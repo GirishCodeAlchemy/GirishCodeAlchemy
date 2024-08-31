@@ -248,7 +248,6 @@ I also love doing open-source development and contributions. It gives me a wonde
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=aws-app-hosting" />
 </a> -->
  <img height=5 align="right" src="https://visitcount.itsvg.in/api?id=GirishCodeAlchemy&label=Profile%20Views&icon=0&color=0" />
-
 <!--
 **GirishCodeAlchemy/GirishCodeAlchemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # ![GirishCodeAlchemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
