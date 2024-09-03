@@ -203,7 +203,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 | [Alchemy Template](https://github.com/GirishCodeAlchemy/alchemy-template)| Original Alchemy template. |  <a href="https://github.com/GirishCodeAlchemy/alchemy-template"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" /></a> </br> |
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/ocean.gif" />
