@@ -120,7 +120,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 <a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"> <img src="./assets/certificates/gcp/AssociateCloudEngineer20240915-7-l4tpb7.jpg" width="260"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"> <img src="./assets/certificates/oracle_certificate/Gen_ai_Certificate.jpg" width="260"></a>
-<a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"> <img src="./assets/certificates/Introduction_to_datascience.png" width="240" height="200"></a>
+<a href="https://learn.datadoghq.com/certificates/8m2w6bohwn"><img src="./assets/certificates/monitoring_kubernetes_Datadog.jpg" width="260" height="200" ></a>
 <a href="https://www.linkedin.com/learning/certificates/dbd63253ad2ec18dbcbd870160f76ab4679a0d3f5d0102ea328181eec5d38183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqsIndzOWSoyxrFzDzbwbSw%3D%3D"><img src="./assets/certificates/1.jpg" width="260"></a>
 <a href="https://www.linkedin.com/learning/certificates/2669c298f9e4b4a669c87b3588cd7e7d10fde77a97e2d4bad6e35c864b27f4d6"> <img src="./assets/certificates/1-2.jpg" width="260"></a>
 <a href="https://www.linkedin.com/learning/certificates/96c3f4df29b74e35e539419f305ea948745618ca68200bbfff71ee8bfa795baf"> <img src="./assets/certificates/1-3.jpg" width="260"> </a>
@@ -128,7 +128,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 <a href="https://www.linkedin.com/learning/certificates/c5b6781c91aab152fb1f0fe8faee066e989b46f600cd914203c447776ef3772a?trk=share_certificate"><img src="./assets/certificates/2-2.jpg" width="260" ></a>
 <a href="https://www.linkedin.com/learning/certificates/91d286ed7caa50bf7e60a51bbed3c746c87d7a9099a6bf695df6a150c99497d2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B1Q3FMISkTfqvVdeFKFwcVw%3D%3D"> <img src="./assets/certificates/2-3.jpg" width="260"></a>
 <a href="https://www.linkedin.com/learning/certificates/1eef8e176b62887d4bc1966fcb20cf202683ccf161d85f44bda6d871c8091009?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B1Q3FMISkTfqvVdeFKFwcVw%3D%3D"> <img src="./assets/certificates/3.jpg" width="260"></a>
-<a href="https://learn.datadoghq.com/certificates/8m2w6bohwn"><img src="./assets/certificates/monitoring_kubernetes_Datadog.jpg" width="260" height="200" ></a>
+<a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"> <img src="./assets/certificates/Introduction_to_datascience.png"  width="180" height="180"></a>
 <a href="https://www.credly.com/badges/0cbd6373-0ab4-48a3-8d6a-18d4e4cbc853/public_url"><img src="./assets/certificates/amazon_cloud_quest.png" width="180" height="180" ></a>
 <a href="https://www.credly.com/badges/40bb0d97-4c88-42aa-9b6a-55304eb2830c/public_url"><img src="./assets/certificates/AWS/Getting_started_cloud_operation.png" width="180" height="180" ></a>
 <a href="https://www.credly.com/badges/eff67d23-5a61-4435-b452-ca2300554315/public_url"><img src="./assets/certificates/AWS/aws-knowledge-architecting.png" width="180" height="180"></a>
