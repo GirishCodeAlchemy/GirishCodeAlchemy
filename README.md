@@ -117,6 +117,8 @@ I also love doing open-source development and contributions. It gives me a wonde
 
  
 <p align="middle">
+
+<a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"> <img src="./assets/certificates/gcp/AssociateCloudEngineer20240915-7-l4tpb7.jpg" width="260"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"> <img src="./assets/certificates/oracle_certificate/Gen_ai_Certificate.jpg" width="260"></a>
 <a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"> <img src="./assets/certificates/Introduction_to_datascience.png" width="240" height="200"></a>
 <a href="https://www.linkedin.com/learning/certificates/dbd63253ad2ec18dbcbd870160f76ab4679a0d3f5d0102ea328181eec5d38183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqsIndzOWSoyxrFzDzbwbSw%3D%3D"><img src="./assets/certificates/1.jpg" width="260"></a>
@@ -136,6 +138,8 @@ I also love doing open-source development and contributions. It gives me a wonde
 <a href="https://credentials.newrelic.com/646fedad-e847-4c64-868a-34a5bde94f58"><img src="./assets/certificates/NewRelicBadges/new-relic-observability-Practitioner.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/1b754dbd-e9e3-454d-90bc-dcf0bdb8270b"><img src="./assets/certificates/NewRelicBadges/new-relic-full-stack-observability.png" width="180" height="180"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"><img src="./assets/certificates/oracle_certificate/OCI2024GAIOCP.jpg" width="180" height="180"></a>
+<a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"><img src="./assets/certificates/gcp/associate-cloud-engineer-certification.png" width="180" height="180"></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1739915f-401a-40ca-9443-acd6ca166b31" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 <hr/>
 
