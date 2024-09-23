@@ -45,7 +45,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 - 🚀 Building software from zero to one.
 - 🐍 Python/Golang/Nodejs/Shell.
 - 🚀 Initiate project and launch software.
-
 <hr/>
 
 # 💻 Tech Stack:
@@ -179,7 +178,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 ### Additional Repositories:
 
-
 | Solution | Description | Download |
 |:---------|:------------:|:--------:|
 | [Alchemy Azure DevOps](https://github.com/GirishCodeAlchemy/alchemy-azure-devops) | Sample Pipeline and templates for working with Azure DevOps pipeline. | <a href="https://github.com/GirishCodeAlchemy/alchemy-azure-devops"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white" /></a> </br>  |
@@ -215,41 +213,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 
 ----
-<!-- 
 
-### **Tools and Technology.**
-
-<br>
-<code><img src="https://img.icons8.com/fluency/96/null/python.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/golang.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/nodejs.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/angularjs.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/jenkins.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/terraform.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/ansible.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/amazon-web-services.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/google-cloud.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/docker.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/kubernetes.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/elasticsearch.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/github.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=TopNDiskAnalyzer" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=WebPageCapture" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=github-action" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=useful-scripts" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GirishCodeAlchemy&repo=aws-app-hosting" />
-</a> -->
  <img height=5 align="right" src="https://visitcount.itsvg.in/api?id=GirishCodeAlchemy&label=Profile%20Views&icon=0&color=0" />
 <!--
 **GirishCodeAlchemy/GirishCodeAlchemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
