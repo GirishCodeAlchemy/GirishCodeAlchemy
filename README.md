@@ -177,7 +177,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 | [ConnectorCTL](https://pypi.org/project/connectorctl) | A command-line tool to manage Kafka connectors with ease. | |  <a href="https://github.com/GirishCodeAlchemy/connectorctl"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white"/></a> <a href="https://pypi.org/project/connectorctl"><img src="https://img.shields.io/pypi/v/connectorctl.svg?style=flat&logo=pypi&logoColor=white" /></a> </br> |
 | [CodeAlchemy](https://pypi.org/project/codealchemy) | A code generation tool and library to streamline development tasks. | |  <a href="https://github.com/GirishCodeAlchemy/codealchemy"><img src="https://img.shields.io/badge/-Github-231F20?style=flat&logo=Github&logoColor=white"/></a> <a href="https://pypi.org/project/codealchemy"><img src="https://img.shields.io/pypi/v/codealchemy.svg?style=flat&logo=pypi&logoColor=white" /></a> </br>  |
 
-https://pypi.org/project/codealchemy/
 <hr/>
 
 ### Additional Repositories:
