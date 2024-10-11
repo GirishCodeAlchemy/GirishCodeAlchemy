@@ -213,8 +213,6 @@ I also love doing open-source development and contributions. It gives me a wonde
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/ocean.gif" />
   <img alt="github-snake" src="https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/output/github-snake.svg" />
 </picture>
-
-
 ----
 
  <img height=5 align="right" src="https://visitcount.itsvg.in/api?id=GirishCodeAlchemy&label=Profile%20Views&icon=0&color=0" />
