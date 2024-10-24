@@ -98,7 +98,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 ![LLM](https://img.shields.io/badge/LLM-0085CA?style=for-the-badge&logo=llm&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-00BFFF?style=for-the-badge&logo=genai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-DC382D?style=for-the-badge&logo=genai&logoColor=white)
-![Backstage](https://img.shields.io/badge/Backstage-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-339933?style=for-the-badge&logo=backstage&logoColor=white)
 
 </div>
 <hr/>
