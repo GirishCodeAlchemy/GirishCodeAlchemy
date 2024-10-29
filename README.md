@@ -114,7 +114,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 # 🏅 Certificates :
 
- 
 <p align="middle">
 
 <a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"> <img src="./assets/certificates/gcp/AssociateCloudEngineer20240915-7-l4tpb7.jpg" width="260"></a>
