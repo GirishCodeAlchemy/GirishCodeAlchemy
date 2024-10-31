@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/-Resume-231F20?style=flat&logo=Download&logoColor=white" width="70" height="30" alt="Download Resume"/>
   </a>
 </p>
-
 <!-- <img align="right" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" /> -->
 <p align="center">
 
