@@ -101,6 +101,49 @@ I also love doing open-source development and contributions. It gives me a wonde
 </div>
 <hr/>
 
+# 🛠️ Published Packages
+
+Here are some platforms where I have contributed packages for public use:
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://pypi.org/user/GirishCodeAlchemy/">
+          <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI Logo" width="80" height="80"/>
+          <br>
+          <strong>Python Packages on PyPI</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/~girishv">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM Logo" width="80" height="80"/>
+          <br>
+          <strong>JavaScript Packages on NPM</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/marketplace?type=actions&query=GirishCodeAlchemy">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions Logo" width="80" height="80"/>
+          <br>
+          <strong>GitHub Actions Marketplace</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://registry.terraform.io/namespaces/GirishCodeAlchemy">
+          <img src="https://www.svgrepo.com/download/376353/terraform.svg" alt="Terraform Logo" width="80" height="80"/>
+          <br>
+          <strong>Terraform Modules on Terraform Registry</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+  
+<hr/>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars)
@@ -108,17 +151,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 ![](http://github-readme-streak-stats.herokuapp.com?user=girishcodealchemy&theme=radical&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=girishcodealchemy&title=MultiLanguage,PullRequest,Commits,Stars,LongTimeUser,Repositories,Issues&theme=radical&column=3)
 ![](https://github-readme-activity-graph.vercel.app/graph/?username=GirishCodeAlchemy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")
-
-<hr/>
-
-# 🛠️ Published Packages
-
-Here are some platforms where I have contributed packages for public use:
-
-- **[PyPI](https://pypi.org/user/GirishCodeAlchemy/):** Python packages published under my username.
-- **[NPM](https://www.npmjs.com/~girishv):** JavaScript packages available on NPM.
-- **GitHub Action Marketplace:** Find my GitHub Actions published to streamline workflows.
-- **Terraform Registry:** Terraform modules and providers contributed to the registry.
 
 <hr/>
 
