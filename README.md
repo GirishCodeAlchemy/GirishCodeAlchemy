@@ -111,6 +111,17 @@ I also love doing open-source development and contributions. It gives me a wonde
 
 <hr/>
 
+# 🛠️ Published Packages
+
+Here are some platforms where I have contributed packages for public use:
+
+- **[PyPI](https://pypi.org/user/GirishCodeAlchemy/):** Python packages published under my username.
+- **[NPM](https://www.npmjs.com/~girishv):** JavaScript packages available on NPM.
+- **GitHub Action Marketplace:** Find my GitHub Actions published to streamline workflows.
+- **Terraform Registry:** Terraform modules and providers contributed to the registry.
+
+<hr/>
+
 # 🏅 Certificates :
 
 <p align="middle">
