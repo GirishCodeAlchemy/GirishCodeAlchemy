@@ -106,7 +106,6 @@ I also love doing open-source development and contributions. It gives me a wonde
 Here are some platforms where I have contributed packages for public use:
 
 <div align="center">
-  
   <table>
     <tr>
       <td align="center">
@@ -139,7 +138,6 @@ Here are some platforms where I have contributed packages for public use:
       </td>
     </tr>
   </table>
-  
 </div>
   
 <hr/>
