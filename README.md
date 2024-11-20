@@ -1,6 +1,5 @@
 ![](https://github.com/GirishCodeAlchemy/GirishCodeAlchemy/blob/3ea6703a7667766783d439dfdff70c0125fc3614/linkedin-banner.png?raw=true)
 
-
 ### Hi everyone 👋 <img height=25 align="right" src="https://komarev.com/ghpvc/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=10&base=100" />
 
 <p align="right">
