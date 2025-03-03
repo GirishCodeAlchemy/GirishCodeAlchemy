@@ -158,7 +158,7 @@ Here are some platforms where I have contributed packages for public use:
 <p align="middle">
 
 
-<a href="https://www.credly.com/badges/a2af64ef-c7d7-4033-8488-e247486426b9/public_url"> <img src="./assets/certificates/AWS/AWS Certified Cloud Practitioner certificate.pdf" width="260"></a>
+<a href="https://www.credly.com/badges/a2af64ef-c7d7-4033-8488-e247486426b9/public_url"> <img src="./assets/certificates/AWS/AWS Certified Cloud Practitioner certificate_page-0001.jpg" width="260"></a>
 <a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"> <img src="./assets/certificates/gcp/AssociateCloudEngineer20240915-7-l4tpb7.jpg" width="260"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"> <img src="./assets/certificates/oracle_certificate/Gen_ai_Certificate.jpg" width="260"></a>
 <a href="https://learn.datadoghq.com/certificates/8m2w6bohwn"><img src="./assets/certificates/monitoring_kubernetes_Datadog.jpg" width="260" height="200" ></a>
