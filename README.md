@@ -172,10 +172,10 @@ Here are some platforms where I have contributed packages for public use:
 <a href="https://www.credly.com/badges/d9461ee7-4c17-4f17-8794-9bb7de629d1e/public_url"> <img src="./assets/certificates/Introduction_to_datascience.png"  width="180" height="180"></a>
 <a href="https://www.credly.com/badges/0cbd6373-0ab4-48a3-8d6a-18d4e4cbc853/public_url"><img src="./assets/certificates/amazon_cloud_quest.png" width="180" height="180" ></a>
 <a href="https://www.credly.com/badges/40bb0d97-4c88-42aa-9b6a-55304eb2830c/public_url"><img src="./assets/certificates/AWS/Getting_started_cloud_operation.png" width="180" height="180" ></a>
+<a href="https://www.credly.com/badges/1ed66857-18a2-4127-90dd-8ec4a506ec58/public_url"><img src="./assets/certificates/AWS/aws-educate-getting-started-with-security.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/eff67d23-5a61-4435-b452-ca2300554315/public_url"><img src="./assets/certificates/AWS/aws-knowledge-architecting.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/744fab49-58ef-45dc-9014-c8c10895dfc2/public_url"><img src="./assets/certificates/AWS/Amazon_eks_bage.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/7cd9584e-a300-499d-a55d-71368b978f11/public_url"><img src="./assets/certificates/AWS/aws-knowledge-cloud-essentials.png" width="180" height="180"></a>
-<a href="https://www.credly.com/badges/1ed66857-18a2-4127-90dd-8ec4a506ec58/public_url"><img src="./assets/certificates/AWS/aws-educate-getting-started-with-security.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/3f2d9912-700e-4a54-b01d-4ffe2b7fefb1/public_url"><img src="./assets/certificates/Datadog_badge.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/72439e0f-d803-45d8-b134-9a078a7895a8"><img src="./assets/certificates/NewRelicBadges/New-relic-observability-foundation.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/646fedad-e847-4c64-868a-34a5bde94f58"><img src="./assets/certificates/NewRelicBadges/new-relic-observability-Practitioner.png" width="180" height="180"></a>
