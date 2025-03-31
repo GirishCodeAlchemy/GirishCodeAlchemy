@@ -176,6 +176,7 @@ Here are some platforms where I have contributed packages for public use:
 <a href="https://www.credly.com/badges/eff67d23-5a61-4435-b452-ca2300554315/public_url"><img src="./assets/certificates/AWS/aws-knowledge-architecting.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/744fab49-58ef-45dc-9014-c8c10895dfc2/public_url"><img src="./assets/certificates/AWS/Amazon_eks_bage.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/7cd9584e-a300-499d-a55d-71368b978f11/public_url"><img src="./assets/certificates/AWS/aws-knowledge-cloud-essentials.png" width="180" height="180"></a>
+<a href="https://www.credly.com/badges/94273145-133e-4770-a66d-1232d87977ae/public_url"><img src="./assets/certificates/AWS/aws-knowledge-migration-foundations.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/3f2d9912-700e-4a54-b01d-4ffe2b7fefb1/public_url"><img src="./assets/certificates/Datadog_badge.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/72439e0f-d803-45d8-b134-9a078a7895a8"><img src="./assets/certificates/NewRelicBadges/New-relic-observability-foundation.png" width="180" height="180"></a>
 <a href="https://credentials.newrelic.com/646fedad-e847-4c64-868a-34a5bde94f58"><img src="./assets/certificates/NewRelicBadges/new-relic-observability-Practitioner.png" width="180" height="180"></a>
