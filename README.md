@@ -47,7 +47,7 @@ I also love doing open-source development and contributions. It gives me a wonde
 ### 🚀 Current Open Source Project (Under Development)
 
 - 🛠️ CodAlchemy Online Tool is an open-source project designed to bring all essential tools for daily IT jobs into one platform.
-   [Explore CodAlchemy Online Tool](https://codealchemy-onlinetool.vercel.app/)
+   [Explore CodeAlchemy Online Tool](https://codealchemy-onlinetool.vercel.app/)
 <hr/>
 
 # 💻 Tech Stack:
