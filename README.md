@@ -189,6 +189,7 @@ Here are some platforms where I have contributed packages for public use:
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4F62727F3944A9B2E019346FE641F5A1805DF60898FD8BA716D81FEB160F6D05"><img src="./assets/certificates/oracle_certificate/OCI2024GAIOCP.jpg" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/1739915f-401a-40ca-9443-acd6ca166b31/public_url"><img src="./assets/certificates/gcp/associate-cloud-engineer-certification.png" width="180" height="180"></a>
 <a href="https://www.credly.com/badges/a2af64ef-c7d7-4033-8488-e247486426b9/public_url"> <img src="./assets/certificates/AWS/aws-certified-cloud-practitioner.png" width="180" height="180"></a>
+<a href="https://oneroadmap.io/skills/da/certificate/CERT-020AE297"> <img src="./assets/certificates/Data-Analyst-Certificate.jpg" width="180" height="180"></a>
 
 </p>
 <hr/>
