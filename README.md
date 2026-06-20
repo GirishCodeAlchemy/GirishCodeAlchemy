@@ -2,11 +2,11 @@
 
 ### Hi everyone 👋 <img height=25 align="right" src="https://komarev.com/ghpvc/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&card_width=10&base=100" />
 
-<p align="right">
+<!-- <p align="right">
   <a href="https://girishcodealchemy.github.io/Resume/">
     <img src="https://img.shields.io/badge/-Resume-231F20?style=flat&logo=Download&logoColor=white" width="70" height="30" alt="Download Resume"/>
   </a>
-</p>
+</p> -->
 <!-- <img align="right" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" /> -->
 <p align="center">
 
