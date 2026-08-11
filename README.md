@@ -150,7 +150,7 @@ Here are some platforms where I have contributed packages for public use:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=GirishCodeAlchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars)
+![](https://github-stats-extended.vercel.app/api?username=girishcodealchemy&show_icons=true&theme=radical&rank_icon=github&hide=stars)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GirishCodeAlchemy&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook,Roff&card_width=320)
 ![](http://github-readme-streak-stats.herokuapp.com?user=girishcodealchemy&theme=radical&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=girishcodealchemy&title=MultiLanguage,PullRequest,Commits,Stars,LongTimeUser,Repositories,Issues&theme=radical&column=3)
