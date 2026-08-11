@@ -116,7 +116,7 @@ Here are some platforms where I have contributed packages for public use:
     <tr>
       <td align="center">
         <a href="https://pypi.org/user/GirishCodeAlchemy/">
-          <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI Logo" width="80" height="80"/>
+          <img src="https://pypi.org/static/images/logo-large.516e776d.svg" alt="PyPI Logo" width="80" height="80"/>
           <br>
           <strong>Python Packages on PyPI</strong>
         </a>
