@@ -9,12 +9,13 @@
 </p> -->
 <!-- <img align="right" alt="Girish's Octocat"  width='120px' src="./my_octocat.png" /> -->
 <p align="center">
-
 <h1 align="center">
  <img align="left" alt="Girish's"  width='80px' src="./ironman.png" />
 
 <code style="color: #FFB300; font-size: 45px;font-family: Roboto;">Girish V </code><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Software+Engineer;11%2B%20Years+of+experience+in+IT;Always+learning+new+things"/><br>
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BAEF7&random=false&width=440&height=60&lines=Software+Engineer;11%2B%20Years+of+experience+in+IT;Always+learning+new+things"/> -->
+<img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F3F738&random=false&width=800&height=70&lines=EAT.+WORK.+LIFT.+STUDY.+SLEEP.+REPEAT.%7C;I+believed+that+I+could%2C+so+I+did.%7C;The+fight+you+gotta+fight+is+in+your+mind.%7C;Learning+is+a+gift.+Shut+up+and+study.%7C;Stay+Hungry.+Stay+Foolish.+Don't+Be+Satisfied.%7C;Wake+up+and+be+fucking+awesome.%7C;True+love+isn't+found.+It's+built.%7C;Work+in+silence.+Let+success+make+the+noise.%7C"/> <br>
 <a href="https://www.linkedin.com/in/vgirish10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/vgirishreddy/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://girishv.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
@@ -22,7 +23,6 @@
 <a href="mailto:girishcodealchemy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 </h1>
-
 <p>
   Hi, I am a software engineer specializing in full-stack development, cloud computing, and DevOps, with experience across the entire product life cycle, including contributions to open-source projects. I am a tech enthusiast primarily focused on Python and Golang, but my learning style allows me to adapt to new languages and ideologies with ease.
 
